@@ -1,3 +1,5 @@
+#is_prime() 함수는 입력된 수가 소수인지 아닌지 True or False 형태로 반환합니다.
+
 import math
 
 def is_prime(n):
